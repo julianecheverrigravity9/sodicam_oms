@@ -1,0 +1,9 @@
+{
+    "app_id": "sodimac-oms-pchvi",
+    "config_version": 20210101,
+    "name": "sodimac-oms",
+    "location": "US-VA",
+    "provider_region": "azure-eastus2",
+    "deployment_model": "LOCAL",
+    "environment": "development"
+}
