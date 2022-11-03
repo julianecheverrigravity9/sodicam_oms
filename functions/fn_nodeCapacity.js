@@ -34,6 +34,6 @@ exports = async function(changeEvent){
   if(updatedResult.modifiedCount > 0){
     console.log(`Capacity updated for node: ${node.name}, capacity: ${newCapacity}`);
   }
-  
+    
   return;
 };
